@@ -1,0 +1,19 @@
+python3 --version
+pip3 --version
+
+if you dont have them 
+
+
+sudo apt install python3
+
+sudo apt install python3-pip
+
+sudo  -H pip3 install -U pipenv
+
+pipenv shell   (by installing this we dnt have to write python3 everytime)
+
+pipenv install django
+
+django-admin startproject calculator
+django-admin startproject calculator .   put the . if you want to create in the same dir
+
